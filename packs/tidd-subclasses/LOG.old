@@ -1,0 +1,7 @@
+2024/04/19-12:49:42.369 5dbc Recovering log #270
+2024/04/19-12:49:42.375 5dbc Delete type=0 #270
+2024/04/19-12:49:42.375 5dbc Delete type=3 #268
+2024/04/19-12:55:03.942 1770 Level-0 table #275: started
+2024/04/19-12:55:03.942 1770 Level-0 table #275: 0 bytes OK
+2024/04/19-12:55:03.944 1770 Delete type=0 #273
+2024/04/19-12:55:03.946 1770 Manual compaction at level-0 from '!folders!2qJBi41xDlQAvEZx' @ 72057594037927935 : 1 .. '!items.effects!ycqp3V4GEylXJMWP.AV0315P8q6HrKD0U' @ 0 : 0; will stop at (end)

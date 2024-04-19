@@ -1,0 +1,116 @@
+{
+  "id": "tidd-shared-compendium",
+  "title": "TIDD Shared Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "DemonSlayer730",
+      "discord": "demonslayer730"
+    }
+  ],
+  "packs": [
+    {
+      "name": "tidd-classes",
+      "label": "TIDD Classes",
+      "path": "packs/tidd-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-subclasses",
+      "label": "TIDD Subclasses",
+      "path": "packs/tidd-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-races",
+      "label": "TIDD Races",
+      "path": "packs/tidd-races",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-spells",
+      "label": "TIDD Spells",
+      "path": "packs/tidd-spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-background",
+      "label": "TIDD Background",
+      "path": "packs/tidd-background",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-magic-items",
+      "label": "TIDD Magic Items",
+      "path": "packs/tidd-magic-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-feats",
+      "label": "TIDD Feats",
+      "path": "packs/tidd-feats",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-summons",
+      "label": "TIDD Summons",
+      "path": "packs/tidd-summons",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tidd-tables",
+      "label": "Tidd Tables",
+      "path": "packs/tidd-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
