@@ -1,7 +1,12 @@
-2024/04/19-12:55:46.722 4704 Recovering log #178
-2024/04/19-12:55:46.727 4704 Delete type=0 #178
-2024/04/19-12:55:46.727 4704 Delete type=3 #176
-2024/04/19-13:09:31.035 1770 Level-0 table #183: started
-2024/04/19-13:09:31.035 1770 Level-0 table #183: 0 bytes OK
-2024/04/19-13:09:31.037 1770 Delete type=0 #181
-2024/04/19-13:09:31.037 1770 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/04/23-13:50:15.254 40ac Recovering log #197
+2024/04/23-13:50:15.255 40ac Level-0 table #199: started
+2024/04/23-13:50:15.258 40ac Level-0 table #199: 95807 bytes OK
+2024/04/23-13:50:15.264 40ac Delete type=0 #197
+2024/04/23-13:50:15.264 40ac Delete type=3 #195
+2024/04/23-14:49:39.005 2398 Compacting 3@0 + 0@1 files
+2024/04/23-14:49:39.008 2398 Generated table #201@0: 38 keys, 30046 bytes
+2024/04/23-14:49:39.008 2398 Compacted 3@0 + 0@1 files => 30046 bytes
+2024/04/23-14:49:39.010 2398 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/23-14:49:39.010 2398 Delete type=2 #193
+2024/04/23-14:49:39.010 2398 Delete type=2 #196
+2024/04/23-14:49:39.010 2398 Delete type=2 #199
