@@ -1,7 +1,22 @@
-2024/04/19-12:55:46.682 4704 Recovering log #274
-2024/04/19-12:55:46.687 4704 Delete type=0 #274
-2024/04/19-12:55:46.687 4704 Delete type=3 #272
-2024/04/19-13:09:31.033 1770 Level-0 table #279: started
-2024/04/19-13:09:31.033 1770 Level-0 table #279: 0 bytes OK
-2024/04/19-13:09:31.035 1770 Delete type=0 #277
-2024/04/19-13:09:31.037 1770 Manual compaction at level-0 from '!folders!2qJBi41xDlQAvEZx' @ 72057594037927935 : 1 .. '!items.effects!ycqp3V4GEylXJMWP.AV0315P8q6HrKD0U' @ 0 : 0; will stop at (end)
+2024/04/30-08:53:03.259 20d4 Recovering log #337
+2024/04/30-08:53:03.260 20d4 Level-0 table #339: started
+2024/04/30-08:53:03.264 20d4 Level-0 table #339: 188672 bytes OK
+2024/04/30-08:53:03.270 20d4 Delete type=0 #337
+2024/04/30-08:53:03.270 20d4 Delete type=3 #336
+2024/04/30-08:58:47.128 6f24 Compacting 1@0 + 1@1 files
+2024/04/30-08:58:47.142 6f24 Generated table #341@0: 405 keys, 512265 bytes
+2024/04/30-08:58:47.142 6f24 Compacted 1@0 + 1@1 files => 512265 bytes
+2024/04/30-08:58:47.144 6f24 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/30-08:58:47.144 6f24 Delete type=2 #263
+2024/04/30-08:58:47.144 6f24 Delete type=2 #339
+2024/04/30-09:40:19.667 6f24 Level-0 table #343: started
+2024/04/30-09:40:19.671 6f24 Level-0 table #343: 89258 bytes OK
+2024/04/30-09:40:19.673 6f24 Delete type=0 #340
+2024/04/30-09:40:19.682 6f24 Manual compaction at level-0 from '!folders!2qJBi41xDlQAvEZx' @ 72057594037927935 : 1 .. '!items.effects!ycqp3V4GEylXJMWP.AV0315P8q6HrKD0U' @ 0 : 0; will stop at '!items!j82H7Yaa2gaQ2M8j' @ 3368 : 1
+2024/04/30-09:40:19.682 6f24 Compacting 1@0 + 1@1 files
+2024/04/30-09:40:19.692 6f24 Generated table #344@0: 405 keys, 511635 bytes
+2024/04/30-09:40:19.692 6f24 Compacted 1@0 + 1@1 files => 511635 bytes
+2024/04/30-09:40:19.693 6f24 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/30-09:40:19.693 6f24 Delete type=2 #341
+2024/04/30-09:40:19.693 6f24 Delete type=2 #343
+2024/04/30-09:40:19.693 6f24 Manual compaction at level-0 from '!items!j82H7Yaa2gaQ2M8j' @ 3368 : 1 .. '!items.effects!ycqp3V4GEylXJMWP.AV0315P8q6HrKD0U' @ 0 : 0; will stop at (end)
